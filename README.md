@@ -17,14 +17,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="80" height="80"/>
 
 <br><br>
-
 **Frameworks:** Spring Boot, FastAPI, Django <br>
 <img src="https://cdn.worldvectorlogo.com/logos/spring-boot-1.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="80" height="80"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-plain.svg" width="80" height="80"/>
 
 <br><br>
-
 **Concepts:** RESTful APIs, Backend Architecture, Object-Oriented Programming
 
 ---
@@ -38,7 +36,7 @@
 
 ### Let's connect!
 <div align="left">
-  <img src="octocat.png" width="80" height="80" align="left" style="margin-right: 15px" />
+  <img src="octocat.png" width="150" height="150" align="left" style="margin-right: 15px" />
   <br>
   <a href="mailto:ellensouza105@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernanda-souza-1351371a6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
