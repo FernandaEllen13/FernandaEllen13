@@ -1,7 +1,5 @@
 # Hello, I'm Fernanda!
-<div>
-<img align="right"src="octocat.png" width="60" height="60">
-</div>
+
 <div align="center">
     <b>Backend Developer | Software Engineering Student</b>
     <br><img src="https://media1.tenor.com/m/Wl-KdhG1N24AAAAd/cats.gif" width="150" />
@@ -32,7 +30,9 @@
 
 ### Let's connect!
 <div>
+<img align="right"src="octocat.png" width="60" height="60">
 <a href = "mailto:ellensouza105@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/fernanda-souza-1351371a6/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
