@@ -14,8 +14,9 @@
 * 🌱 Building my portfolio with personal projects to showcase my backend skills.
 
 ### GitHub Stats
+
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaEllen13&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaEllen13&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaEllen13&layout=compact&theme=radical" />
 </div>
 
