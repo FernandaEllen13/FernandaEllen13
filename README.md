@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Fernanda! 👋
 
-<!--
-**FernandaEllen13/FernandaEllen13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 **Backend Developer | Software Engineering Student**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+* **Languages:** Java, Python
+* **Frameworks:** Spring Boot, FastAPI, Django
+* **Concepts:** RESTful APIs, Backend Architecture, Object-Oriented Programming
+
+### 🚀 What I'm up to
+* 💼 Working at Inatel Competence Center.
+* 🎓 Finishing my degree in Software Engineering.
+* 🌱 Building my portfolio with personal projects to showcase my backend skills.
+
+### 📈 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandaEllen13&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandaEllen13&layout=compact&theme=radical" />
+</div>
+
+### 📫 Let's connect!
+* **LinkedIn:** [Click here to visit my LinkedIn]([(https://www.linkedin.com/in/fernanda-souza-1351371a6/)])
+* **Email:** [ellensouza105@gmail.com](ellensouza105@gmail.com)
