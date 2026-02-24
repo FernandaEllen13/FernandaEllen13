@@ -2,7 +2,7 @@
 
 <div align="center">
     <b>Backend Developer | Software Engineering Student</b>
-    <br><img src="https://media1.tenor.com/m/Wl-KdhG1N24AAAAd/cats.gif" width="200" />
+    <br><img src="(https://media1.tenor.com/m/LSDeBe2JAfoAAAAC/cat-coding.gif)" width="100% />
 </div>
 
 ### Tech Stack & Skills
