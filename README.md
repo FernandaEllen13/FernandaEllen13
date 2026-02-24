@@ -5,7 +5,7 @@
 
 ### Tech Stack & Skills
 * **Languages:** 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
           
 * **Frameworks:** Spring Boot, FastAPI, Django
 * **Concepts:** RESTful APIs, Backend Architecture, Object-Oriented Programming
