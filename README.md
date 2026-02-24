@@ -1,6 +1,7 @@
 # Hello, I'm Fernanda!
+<div>
 <img align="right"src="octocat.png" width="60" height="60">
-
+</div>
 <div align="center">
     <b>Backend Developer | Software Engineering Student</b>
     <br><img src="https://media1.tenor.com/m/Wl-KdhG1N24AAAAd/cats.gif" width="150" />
